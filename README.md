@@ -34,7 +34,7 @@ Intake
  
 </p>
 <p>
-The intake stage is the process of creating a support ticket and entering it into the ticketing system. In a real-world environment, tickets may be created in several ways, including a user submitting a ticket through a web portal, sending an email, using a chat application, calling the help desk, or speaking directly with an IT technician. In this lab, the ticket was created through an email.
+The intake stage is the process of creating a support ticket and entering it into the ticketing system. In a real-world environment, tickets may be created in several ways, including a user submitting a ticket through a web portal, sending an email, using a chat application, calling the help desk, or speaking directly with an IT technician. In this lab, the ticket was created through an email. The image above shows how the ticket was created and put into the system.
 </p>
 <br />
 
