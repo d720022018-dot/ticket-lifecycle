@@ -48,7 +48,7 @@ Assignment and Communication
 After a ticket has been created and received by the help desk, it must be reviewed, prioritized, assigned to the appropriate technician or department, and communicated to the user. For this example, a user reports that their desktop computer will not power on because the power supply has failed. In the image above I changed the priority level to low and changed the SLA plan to Sev-C which means it needs to be resolved in 3 to 5 business days. I did this because when I contacted the user, they said they had another computer they could use till the issue was resolved and it was not an immediate danger to the business.
 </p>
 <br />
-
+Working the Issue
 <p>
 <img width="340" height="467" alt="image" src="https://github.com/user-attachments/assets/0edc6b99-cb27-48e4-8124-4fb8f8afced5" />
 
