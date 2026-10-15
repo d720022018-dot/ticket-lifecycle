@@ -41,7 +41,8 @@ Assignment and Communication
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="340" height="463" alt="image" src="https://github.com/user-attachments/assets/5c7c1b8e-584a-40d0-b90f-2e2e6d87b7cd" />
+
 </p>
 <p>
 After a ticket has been created and received by the help desk, it must be reviewed, prioritized, assigned to the appropriate technician or department, and communicated to the user. For this example, a user reports that their desktop computer will not power on because the power supply has failed.
