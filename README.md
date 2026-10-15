@@ -57,3 +57,6 @@ Working the Issue
 After a ticket has been reviewed and assigned, the troubleshooting process begins. During this stage, the technician investigates the issue to identify the root cause, document findings, and determine the most effective solution. In the image above it shows that I contacted the user to gather additional information about the problem. During our conversation, the user reported that pressing the power button produced no response from the computer. No lights, sounds, or signs of activity were present when attempting to power on the device. I guided the user through several basic troubleshooting steps to help isolate the issue. The user verified that the power cable was securely connected and confirmed that the computer was connected to a working power outlet. Despite these checks, the problem persisted and the computer remained unresponsive. Based on the information gathered during troubleshooting, I determined that the issue was most likely related to a failed power supply. Since the user had access to another computer and could continue working, the ticket remained assigned a low priority with a Sev-C SLA. I documented all findings and troubleshooting steps within the ticket to maintain an accurate record of the investigation.
 </p>
 <br />
+
+Resolution
+
