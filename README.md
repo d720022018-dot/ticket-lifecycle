@@ -60,8 +60,7 @@ After a ticket has been reviewed and assigned, the troubleshooting process begin
 
 Resolution
 
-<img width="346" height="453" alt="image" src="https://github.com/user-
- attachments/assets/65201ef6-d134-44aa-94c8-1dbbf6be5c24" />
+<img width="346" height="453" alt="image" src="https://github.com/user-attachments/assets/65201ef6-d134-44aa-94c8-1dbbf6be5c24" />
 
 
 
