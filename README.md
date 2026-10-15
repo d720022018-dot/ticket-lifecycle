@@ -25,11 +25,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+
+
+Intake
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="300" height="386" alt="image" src="https://github.com/user-attachments/assets/101341c2-b450-4876-9877-2f8c5050ca81" />
+ 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The intake stage is the process of creating a support ticket and entering it into the ticketing system. In a real-world environment, tickets may be created in several ways, including a user submitting a ticket through a web portal, sending an email, using a chat application, calling the help desk, or speaking directly with an IT technician. In this lab, the ticket was created through an email.
 </p>
 <br />
 
