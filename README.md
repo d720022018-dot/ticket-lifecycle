@@ -63,5 +63,5 @@ Resolution
 <img width="346" height="453" alt="image" src="https://github.com/user-attachments/assets/65201ef6-d134-44aa-94c8-1dbbf6be5c24" />
 
 
-
+Once the root cause of the issue was identified, the ticket entered the resolution stage. During troubleshooting, it was determined that the workstation's power supply had failed and was preventing the computer from receiving power. A replacement power supply was installed, and the system was tested to verify that it powered on successfully. After the repair was completed, the workstation booted into the operating system without any issues and all normal functionality was restored. The user was notified that the repair had been completed and was asked to verify that the computer was operating as expected. Once the user confirmed that the issue had been resolved, the resolution was documented within the ticket. Documenting the solution provides a record of the work performed and creates a knowledge base that can be referenced if a similar issue occurs in the future. After confirming successful operation and user satisfaction, the ticket was marked as resolved and closed.
  
